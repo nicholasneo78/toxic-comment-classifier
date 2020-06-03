@@ -1,0 +1,10 @@
+Files in here
+-- glove.6B.50d.txt
+-- sample_submission.csv
+-- test.csv
+-- test_labels.csv
+-- train.csv
+
+Can get the files from:
+-- GloVe file -> https://nlp.stanford.edu/projects/glove/
+-- Datasets -> https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge

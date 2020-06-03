@@ -1,0 +1,9 @@
+# TO IGNORE ALL .CSV FILES EXCEPT FOR LOGS
+*.csv
+!log.csv
+
+# TO IGNORE GLOVE TXT FILE
+datasets/glove.6B.50d.txt
+
+# IGNORE CHECKPOINTS
+.ipynb_checkpoints
