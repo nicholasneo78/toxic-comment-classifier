@@ -27,4 +27,5 @@ toxic-comment-classifier/
 
 #### _References:_
 - GloVe file: https://nlp.stanford.edu/projects/glove/
+- Andrew Ng's Deep Learning Specialisation: https://www.coursera.org/specializations/deep-learning
 - Datasets: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
