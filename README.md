@@ -21,10 +21,10 @@ toxic-comment-classifier/
 
 #### _Approach Taken:_
 1. Load Data & Basic EDA
-2. Tokenizing data
+2. Tokenizing the data
 3. Embedding Matrix
 4. Build the Model
 
 #### _References:_
--- GloVe file: https://nlp.stanford.edu/projects/glove/
--- Datasets: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+- GloVe file: https://nlp.stanford.edu/projects/glove/
+- Datasets: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
